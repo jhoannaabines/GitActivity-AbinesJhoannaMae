@@ -1,3 +1,6 @@
 print ("Jhoanna Mae R. Abines")
 print ("Hupi, Santa Cruz, Marinduque")
 print ("November 18, 2002")
+print ("College of Information and Computing Sciences")
+print ("Bachelor of Science in Information Technology")
+print ("2A")
